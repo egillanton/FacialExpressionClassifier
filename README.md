@@ -10,9 +10,8 @@
 A facial expression classifier that recognizes 8 common emotions:<br/> happy, angry, sad, contemptuous, disgusted, fearful, surprised, and neutral.
 </p>
 
-<p align="center">
+
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1_WWtejTCCB8kfKhd2Qy7kf0VS0baFtUY)
-</p>
 
 
 ## Table of Contents

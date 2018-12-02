@@ -14,6 +14,8 @@ A facial expression classifier that recognizes 8 common emotions:<br/> happy, an
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1_WWtejTCCB8kfKhd2Qy7kf0VS0baFtUY)
 </p>
 
+
+## Table of Contents
 <!-- ⛔️ MD-MAGIC-EXAMPLE:START (TOC:collapse=true&collapseText=Click to expand) -->
 <details>
 <summary>Click to expand</summary>
@@ -28,11 +30,6 @@ A facial expression classifier that recognizes 8 common emotions:<br/> happy, an
 
 </details>
 <!-- ⛔️ MD-MAGIC-EXAMPLE:END -->
-
-
-## Table of Contents
-
-
 
 ## 1 Introduction
 Facial emotion/expression classifier can be used to predict what a person is feeling from just looking at an image of a person. Even though a person can express countless expression, in this project we create a classifier that can distinguish between 8 common emotions: happy, angry, sad, contemptuous, disgusted, fearful, surprised, and neutral. The goal is to present a statistical comparison between several convolutional neural network (CNN) model architectures to measure their performances.

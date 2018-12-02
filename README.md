@@ -7,10 +7,10 @@
 <img src="images/header.png" alt="Reykjavik University Logo" align="middle"/>
 
 <p align="center">
-A facial expression classifier that recognizes 8 common emotions:<br/> happy, angry, sad, contemptuous, disgusted, fearful, surprised, and neutral.<br/> <br/>
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](#)
+A facial expression classifier that recognizes 8 common emotions:<br/> happy, angry, sad, contemptuous, disgusted, fearful, surprised, and neutral.
 </p>
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](#)
 
 
 ## Table of Contents

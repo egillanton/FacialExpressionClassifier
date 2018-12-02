@@ -2,6 +2,7 @@
 
 <p align="center"><i>SC-T-796-DEEP, Introduction to Deep Learning, 2018-3 </i></p>
 
+# Facial Expression Classifier
 A facial expression classifier that recognizes 8 common emotions: happy, angry, sad, contemptuous, disgusted, fearful, surprised, and neutral
 
 ## Table of Contents

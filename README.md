@@ -26,7 +26,7 @@ A facial expression classifier that recognizes 8 common emotions: happy, angry, 
 ## 4 Model Validation
 
 ## 5 Authors
-* [Atli Egilsson](https://github.com/atliegils) - MSc. Language Technology Student
+* [Atli Egilsson](https://github.com/atliegils) - MSc. Computer Science
 * [Egill Anton Hlöðversson](https://github.com/egillanton) - MSc. Language Technology Student
 
 ## 6 License

@@ -92,4 +92,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 * [Radboud Faces Database](http://www.socsci.ru.nl:8180/RaFD2/RaFD?p=main)
 * [Keras](https://keras.io)
 
+<p align="center">
 🌟 PLEASE STAR THIS REPO IF YOU FOUND SOMETHING INTERESTING 🌟
+</p>

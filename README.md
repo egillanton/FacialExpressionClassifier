@@ -1,9 +1,14 @@
+<p align="center"><i>
+  Final Project <br/>
+  SC-T-796-DEEP, Introduction to Deep Learning, 2018-3 <br/>
+  Reykjavík University - School of Computer Science, Menntavegi 1, IS-101 Reykjavík, Iceland
+</i></p>
+
 <img src="images/header.png" alt="Reykjavik University Logo" align="middle"/>
 
-<p align="center"><i>SC-T-796-DEEP, Introduction to Deep Learning, 2018-3 </i></p>
-
-# Facial Expression Classifier
-A facial expression classifier that recognizes 8 common emotions: happy, angry, sad, contemptuous, disgusted, fearful, surprised, and neutral
+<p align="center">
+A facial expression classifier that recognizes 8 common emotions:<br/> happy, angry, sad, contemptuous, disgusted, fearful, surprised, and neutral.
+</p>
 
 ## Table of Contents
 1. [Introduction](#1-introduction)

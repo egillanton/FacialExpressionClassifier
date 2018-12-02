@@ -14,7 +14,10 @@ A facial expression classifier that recognizes 8 common emotions:<br/> happy, an
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1_WWtejTCCB8kfKhd2Qy7kf0VS0baFtUY)
 </p>
 
-## Table of Contents
+<!-- ⛔️ MD-MAGIC-EXAMPLE:START (TOC:collapse=true&collapseText=Click to expand) -->
+<details>
+<summary>Click to expand</summary>
+
 1. [Introduction](#1-introduction)
 2. [The Database](#2-the-database)
 3. [The Model](#3-the-model)
@@ -22,6 +25,13 @@ A facial expression classifier that recognizes 8 common emotions:<br/> happy, an
 6. [Authors](#5-authors)
 8. [License](#6-license)
 7. [References](#7-references)
+
+</details>
+<!-- ⛔️ MD-MAGIC-EXAMPLE:END -->
+
+
+## Table of Contents
+
 
 
 ## 1 Introduction

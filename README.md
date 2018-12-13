@@ -22,7 +22,7 @@ A facial expression classifier that recognizes 8 common emotions:<br/> happy, an
 1. [Introduction](#1-introduction)
 2. [The Database](#2-the-database)
     * [The Augmented Dataset](#21-the-augmented-dataset)
-    * [The Training And Test Set](#22-the-training-and-testing-set)
+    * [The Training And Test Set](#22-the-training-and-test-set)
 3. [The Model](#3-the-model)
     * [AlexNet](#31-alexnet)
     * [Custom Model](#32-custom-model)

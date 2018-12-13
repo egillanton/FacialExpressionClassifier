@@ -21,6 +21,7 @@ A facial expression classifier that recognizes 8 common emotions:<br/> happy, an
 
 1. [Introduction](#1-introduction)
 2. [The Database](#2-the-database)
+    * [The Augmented Dataset](#2.1-the-augmented-dataset)
 3. [The Model](#3-the-model)
 4. [Model Validation](#4-model-validation)
 6. [Authors](#5-authors)
@@ -74,6 +75,9 @@ Summary:
 * 480 images of Caucasian male children
 * 720 images of Caucasian female children
 * 2160 images of Moroccan male adults
+
+## 2.1 The Augmented Dataset
+
 
 **Total Images: 8040**
 
